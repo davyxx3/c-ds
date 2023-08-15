@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project/C/BST/BST.h
+
+D:/Project/C/BST/BSTTest.c
+stdio.h
+-
+BST.h
+D:/Project/C/BST/BST.h
+

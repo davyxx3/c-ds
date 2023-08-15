@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project/C/Queue/Queue.h
+
+D:/Project/C/Queue/QueueTest.c
+Queue.h
+D:/Project/C/Queue/Queue.h
+

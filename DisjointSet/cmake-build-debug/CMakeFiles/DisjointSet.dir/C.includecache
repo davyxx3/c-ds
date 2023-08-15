@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project/C/DisjointSet/DisjointSet.h
+
+D:/Project/C/DisjointSet/DisjointSetTest.c
+stdio.h
+-
+DisjointSet.h
+D:/Project/C/DisjointSet/DisjointSet.h
+

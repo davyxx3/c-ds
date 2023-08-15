@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project/C/AVL/AVL.c
+AVL.h
+D:/Project/C/AVL/AVL.h
+stdlib.h
+-
+math.h
+-
+stdio.h
+-
+
+D:/Project/C/AVL/AVL.h
+
+D:/Project/C/AVL/AVLTest.c
+AVL.h
+D:/Project/C/AVL/AVL.h
+

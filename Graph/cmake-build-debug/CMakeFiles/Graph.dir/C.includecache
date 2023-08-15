@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project/C/Graph/ListGraph.c
+stdlib.h
+-
+stdio.h
+-
+ListGraph.h
+D:/Project/C/Graph/ListGraph.h
+Queue.h
+D:/Project/C/Graph/Queue.h
+
+D:/Project/C/Graph/ListGraph.h
+
+D:/Project/C/Graph/Queue.h
+
